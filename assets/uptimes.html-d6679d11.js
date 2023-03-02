@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-563a17b7","path":"/game/genshin/uptimes.html","title":"up 次数统计","lang":"zh-CN","frontmatter":{"title":"up 次数统计"},"headers":[],"git":{"updatedTime":1675246093000,"contributors":[{"name":"AugusMeow","email":"34206897+DrAugus@users.noreply.github.com","commits":1}]},"filePathRelative":"game/genshin/uptimes.md"}');export{e as data};

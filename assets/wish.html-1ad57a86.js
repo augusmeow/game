@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-50e2fba9","path":"/game/genshin/wish.html","title":"近期祈愿","lang":"zh-CN","frontmatter":{"title":"近期祈愿","order":1},"headers":[],"git":{"updatedTime":1674113610000,"contributors":[{"name":"AugusMeow","email":"34206897+DrAugus@users.noreply.github.com","commits":2}]},"filePathRelative":"game/genshin/wish.md"}');export{e as data};

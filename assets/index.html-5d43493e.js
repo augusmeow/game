@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as i,Q as e,t as s}from"./framework-caf2ffc0.js";const c={},n=e("h1",{id:"life-is-beautiful",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#life-is-beautiful","aria-hidden":"true"},"#"),s(" Life is beautiful")],-1),r=[n];function o(_,d){return a(),i("div",null,r)}const f=t(c,[["render",o],["__file","index.html.vue"]]);export{f as default};

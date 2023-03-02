@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4cd4e876","path":"/i18n/it/code/","title":"Coding Everything","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1674024865000,"contributors":[{"name":"AugusMeow","email":"34206897+DrAugus@users.noreply.github.com","commits":1}]},"filePathRelative":"i18n/it/code/README.md"}');export{e as data};

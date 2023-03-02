@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0a6d00c4","path":"/game/genshin/level.html","title":"多少天可以满级","lang":"zh-CN","frontmatter":{"title":"多少天可以满级"},"headers":[],"git":{"updatedTime":1674113610000,"contributors":[{"name":"AugusMeow","email":"34206897+DrAugus@users.noreply.github.com","commits":2}]},"filePathRelative":"game/genshin/level.md"}');export{e as data};

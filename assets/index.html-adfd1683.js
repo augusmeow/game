@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-bdfc81ee","path":"/game/genshin/","title":"原神","lang":"zh-CN","frontmatter":{"index":false,"title":"原神"},"headers":[],"git":{"updatedTime":1674024865000,"contributors":[{"name":"AugusMeow","email":"34206897+DrAugus@users.noreply.github.com","commits":1}]},"filePathRelative":"game/genshin/README.md"}');export{e as data};

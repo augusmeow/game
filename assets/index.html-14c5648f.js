@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a83de7b0","path":"/i18n/fr/life/","title":"Life is beautiful","lang":"fr-FR","frontmatter":{},"headers":[],"git":{"updatedTime":1674024865000,"contributors":[{"name":"AugusMeow","email":"34206897+DrAugus@users.noreply.github.com","commits":1}]},"filePathRelative":"i18n/fr/life/README.md"}');export{e as data};

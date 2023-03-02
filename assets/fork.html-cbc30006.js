@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-90520f24","path":"/game/genshin/fork.html","title":"复刻祈愿","lang":"zh-CN","frontmatter":{"title":"复刻祈愿"},"headers":[],"git":{"updatedTime":1674113610000,"contributors":[{"name":"AugusMeow","email":"34206897+DrAugus@users.noreply.github.com","commits":2}]},"filePathRelative":"game/genshin/fork.md"}');export{e as data};

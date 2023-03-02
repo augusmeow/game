@@ -1,0 +1,1 @@
+import{_ as t,p as n,q as a,Q as e,t as r}from"./framework-caf2ffc0.js";const s={},o=e("h1",{id:"learn-something",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#learn-something","aria-hidden":"true"},"#"),r(" Learn something")],-1),c=[o];function i(_,d){return n(),a("div",null,c)}const l=t(s,[["render",i],["__file","index.html.vue"]]);export{l as default};

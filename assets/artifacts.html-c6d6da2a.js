@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1f08a83e","path":"/game/genshin/artifacts.html","title":"圣遗物","lang":"zh-CN","frontmatter":{"title":"圣遗物"},"headers":[],"git":{"updatedTime":1674113610000,"contributors":[{"name":"AugusMeow","email":"34206897+DrAugus@users.noreply.github.com","commits":2}]},"filePathRelative":"game/genshin/artifacts.md"}');export{t as data};
