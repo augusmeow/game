@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a216f7a6","path":"/i18n/en/sponsor.html","title":"Sponsor","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1674024865000,"contributors":[{"name":"AugusMeow","email":"34206897+DrAugus@users.noreply.github.com","commits":1}]},"filePathRelative":"i18n/en/sponsor.md"}');export{e as data};

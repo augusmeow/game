@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ce6897fc","path":"/game/genshin/info.html","title":"info","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1676543857000,"contributors":[{"name":"AugusMeow","email":"34206897+DrAugus@users.noreply.github.com","commits":1}]},"filePathRelative":"game/genshin/info.md"}');export{e as data};

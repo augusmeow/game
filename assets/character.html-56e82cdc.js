@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3acf5299","path":"/game/genshin/character.html","title":"原神角色","lang":"zh-CN","frontmatter":{"title":"原神角色"},"headers":[],"git":{"updatedTime":1674113610000,"contributors":[{"name":"AugusMeow","email":"34206897+DrAugus@users.noreply.github.com","commits":2}]},"filePathRelative":"game/genshin/character.md"}');export{e as data};
